@@ -1,9 +1,0 @@
-Phase 2 completion summary
-Changes:
-- Introduced GFAOptions and GFAFlags boundary structs in gfa.h
-- Added gfa_init_default_options() and gfa_init_default_flags() in gfa_config.c
-- Updated gfa.c to initialize runtime config from those structs
-- Updated Makefile to compile/link gfa_config.o
-Verification:
-- Canonical run completed
-- normalized_mismatch=0 in phase2\\reports\\comparison.csv
