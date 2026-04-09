@@ -1,0 +1,5 @@
+Phase 1 completion summary
+Build toolchain: Rtools45
+Execution: ./gfa -skipWGET -seq gfa_test.fasta -out gfa_test
+Raw SHA256 mismatch count: 14/14 (Windows text mode line endings)
+Normalized content mismatch count (CR removed): 0/14

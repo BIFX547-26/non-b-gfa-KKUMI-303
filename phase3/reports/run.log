@@ -1,0 +1,71 @@
+-skipWGET = wget PHP call will be skipped
+-seq value = ..\expected\gfa_test.fasta
+-chrom not given. Sequence will be named using first word of fasta title line.
+Fasta Sections = 1
+Total Bases Read=6280 
+Complement Finished:6280
+Reverse Complement Finished:6280
+Starting Inverted Repeat search; Wed Apr  8 19:18:03 2026
+IRs found = 14; Wed Apr  8 19:18:03 2026
+
+Starting Cruciform search
+Done Cruciform search
+
+ Starting print_GFF_file
+ Total unique repeats written into GFF file= 14
+ Starting print_TSV_file
+ Total unique repeats written into TSV file= 14
+Starting G-Quadruplexe search; Wed Apr  8 19:18:03 2026
+ok to here, greps = 7 
+GQs found = 7; Wed Apr  8 19:18:03 2026
+
+ Starting print_GFF_file
+ Total unique repeats written into GFF file= 7
+ Starting print_TSV_file
+ Total unique repeats written into TSV file= 7
+Starting Mirror Repeat search; Wed Apr  8 19:18:03 2026
+MRs found = 5; Wed Apr  8 19:18:03 2026
+
+Starting Triplex search
+Done Triplex search
+
+ Starting print_GFF_file
+ Total unique repeats written into GFF file= 5
+ Starting print_TSV_file
+ Total unique repeats written into TSV file= 5
+Starting Direct Repeat search; Wed Apr  8 19:18:03 2026
+DRs found = 4; Wed Apr  8 19:18:03 2026
+
+Starting Slipped search
+Done Slipped search
+
+ Starting print_GFF_file
+ Total unique repeats written into GFF file= 4
+ Starting print_TSV_file
+ Total unique repeats written into TSV file= 4
+Starting Z-DNA search; Wed Apr  8 19:18:03 2026
+Z-DNA found = 4; Wed Apr  8 19:18:03 2026
+
+Starting Karen Vasquex Z-DNA search
+Done KV Z-DNA
+
+ Starting print_GFF_file
+ Total unique repeats written into GFF file= 4
+ Starting print_TSV_file
+ Total unique repeats written into TSV file= 4
+Starting Short Tandem Repeat search; Wed Apr  8 19:18:03 2026
+STRs found = 7; Wed Apr  8 19:18:03 2026
+
+ nreps S = 7
+ Starting print_GFF_file
+ Total unique repeats written into GFF file= 7
+ Starting print_TSV_file
+ Total unique repeats written into TSV file= 7
+Starting A-Phased Repeat search; Wed Apr  8 19:18:03 2026
+n potential a tracts = 178
+APRs found = 1; Wed Apr  8 19:18:03 2026
+
+ Starting print_GFF_file
+ Total unique repeats written into GFF file= 1
+ Starting print_TSV_file
+ Total unique repeats written into TSV file= 1

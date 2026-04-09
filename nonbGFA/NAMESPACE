@@ -1,0 +1,2 @@
+useDynLib(nonbGFA, .registration = TRUE)
+export(find_nonb_motifs)

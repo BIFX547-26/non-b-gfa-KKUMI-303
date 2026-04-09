@@ -1,0 +1,15 @@
+Package: nonbGFA
+Type: Package
+Title: Non-B DNA Motif Detection Toolkit
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Non-B", "GFA Team", email = "nonb@example.org", role = c("aut", "cre"))
+    )
+Description: Scaffolding for an R package that wraps the legacy GFA C code to
+    detect non-B DNA motif candidates.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
